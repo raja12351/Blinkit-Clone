@@ -228,6 +228,6 @@
 .table-2{
     flex: 4;
 }
-th{
+tr>th{
     margin-bottom: 10px;
 }
